@@ -1,6 +1,6 @@
 {
   "author": "Avi Marcus <avi@BestFone.com>",
-  "name": "middle",
+  "name": "middle-js",
   "preferGlobal": true,
   "bin": { "middle": "middle.js" },
   "version": "0.0.1",
