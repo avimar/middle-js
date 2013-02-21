@@ -1,0 +1,17 @@
+{
+  "author": "Avi Marcus <avi@BestFone.com>",
+  "name": "middle",
+  "preferGlobal": true,
+  "bin": { "middle": "middle.js" },
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avimar/middle-js.git"
+  },
+  "description": "Copy an arbitrary byte position and length from a file to stdout",
+  "main": "middle.js",
+  "license": "MIT",
+  "dependencies": {
+    "optimist": "~0.3.5"
+  }
+}
